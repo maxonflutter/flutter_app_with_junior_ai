@@ -13,8 +13,18 @@ Below is a list of issues that were addressed by Junior AI in this repository. E
 
 | Issue # | Issue Title | Pull Request |
 | ------- | ----------- | ------------- |
-| #[Issue 3](https://github.com/maxonflutter/flutter_app_with_junior_ai/issues/3) | Junior AI: Develop API Client for an E-commerce app #3 | [Check the PR](https://github.com/maxonflutter/flutter_app_with_junior_ai/pull/15) |
-| #[Issue 4](https://github.com/maxonflutter/flutter_app_with_junior_ai/issues/4) | Junior AI: Develop API Client for a Chat App #4 | [Check the PR](https://github.com/maxonflutter/flutter_app_with_junior_ai/pull/16) |
+| [Issue 3](https://github.com/maxonflutter/flutter_app_with_junior_ai/issues/3) | Junior AI: Develop API Client for an E-commerce app #3 | [Check the PR](https://github.com/maxonflutter/flutter_app_with_junior_ai/pull/15) |
+| [Issue 4](https://github.com/maxonflutter/flutter_app_with_junior_ai/issues/4) | Junior AI: Develop API Client for a Chat App #4 | [Check the PR](https://github.com/maxonflutter/flutter_app_with_junior_ai/pull/16) |
+| [Issue 5](https://github.com/maxonflutter/flutter_app_with_junior_ai/issues/5) | Junior AI: Create an Auth BLoC for User Authentication | [Check the PR](https://github.com/maxonflutter/flutter_app_with_junior_ai/pull/17) |
+| [Issue 6](https://github.com/maxonflutter/flutter_app_with_junior_ai/issues/6) | Junior AI: Create a BLoC for Handling E-Commerce Categories | [Check the PR](https://github.com/maxonflutter/flutter_app_with_junior_ai/pull/18) |
+| [Issue 7](https://github.com/maxonflutter/flutter_app_with_junior_ai/issues/7) | Junior AI: Create a Data Filtering Cubit | [Check the PR](https://github.com/maxonflutter/flutter_app_with_junior_ai/pull/20) |
+| [Issue 8](https://github.com/maxonflutter/flutter_app_with_junior_ai/issues/8) | Junior AI: Create a Form Validation Cubit | [Check the PR](https://github.com/maxonflutter/flutter_app_with_junior_ai/pull/23) |
+| [Issue 9](https://github.com/maxonflutter/flutter_app_with_junior_ai/issues/9) | Junior AI: Develop a Cart Model for Flutter App | [Check the PR](https://github.com/maxonflutter/flutter_app_with_junior_ai/pull/19) |
+| [Issue 10](https://github.com/maxonflutter/flutter_app_with_junior_ai/issues/10) | Junior AI: Design a Product Model for Flutter App | [Check the PR](https://github.com/maxonflutter/flutter_app_with_junior_ai/pull/22) |
+| [Issue 11](https://github.com/maxonflutter/flutter_app_with_junior_ai/issues/11) | Junior AI: Design a Fluo Color Scheme and Style Key Widgets | [Check the PR](https://github.com/maxonflutter/flutter_app_with_junior_ai/pull/21) |
+| [Issue 12](https://github.com/maxonflutter/flutter_app_with_junior_ai/issues/12) | Junior AI: Create a Text Theme and Color Scheme for App | [Check the PR](https://github.com/maxonflutter/flutter_app_with_junior_ai/pull/25) |
+| [Issue 13](https://github.com/maxonflutter/flutter_app_with_junior_ai/issues/13) | Junior AI: Design UI for Notifications Screen | [Check the PR](https://github.com/maxonflutter/flutter_app_with_junior_ai/pull/24) |
+| [Issue 14](https://github.com/maxonflutter/flutter_app_with_junior_ai/issues/14) | Junior AI: Design UI for Profile Screen | [Check the PR](https://github.com/maxonflutter/flutter_app_with_junior_ai/pull/26) |
 
 
 💡 _Note: Click on the Issue Number to view the original task and on PR Number to see the generated solution._
